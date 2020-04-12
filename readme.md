@@ -2,7 +2,7 @@ This is the repository for CS1660 hadoop project.
 pitt id: yil167
 
 ########################
-Link to the video demo: https://github.com/yichenli33/cs1660_hadoop or https://drive.google.com/file/d/1guQlqz9KksCj3vtmP-Q8zfgmhLMS8Fzc/view?usp=sharing
+Link to the video demo: https://www.youtube.com/watch?v=geD5LIywSrU or https://drive.google.com/file/d/1guQlqz9KksCj3vtmP-Q8zfgmhLMS8Fzc/view?usp=sharing
 ########################
 
 
